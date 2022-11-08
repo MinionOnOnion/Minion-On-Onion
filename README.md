@@ -1,2 +1,2 @@
 # Minion-On-Onion
-Cute and Dangerous
+Cute, friendly and Dangerous
